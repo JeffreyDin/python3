@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 # Author: Jianfeng Ding  Time: 2018/11/20
-
+# fjgjh
 Product_list = [
     ('IPhone', 6000),
     ('Mac Pro', 12000),
