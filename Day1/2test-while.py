@@ -24,3 +24,4 @@ while counter <= n:
     counter += 1
 print("1到%d之和为：%d" % (n, summer))
 
+adsf
