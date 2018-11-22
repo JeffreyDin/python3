@@ -32,12 +32,22 @@ print("1到%d之和为：%d" % (n, summer))
 # print("Good bye!")
 
 # while 循环使用 else 语句
-count = 0
-while count < 5:
-    print(count, "小于5")
-    count = count + 1
-else:
-    print(count, "大于或等于5 ")
+# count = 0
+# while count < 5:
+#     print(count, "小于5")
+#     count = count + 1
+# else:
+#     print(count, "大于或等于5 ")
 
-# test
-zvzcvzv
+
+# while循环
+# import time
+# num = 5
+# while True:
+#     num = num + 1
+#     if num == 10:
+#         # continue
+#         break
+#     print(num)
+#     time.sleep(1)
+

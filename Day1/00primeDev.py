@@ -19,7 +19,7 @@
 #             if j == k:
 #                 print(i)
 
-# 使用flag输出2-100的素数
+# 使用flag变量输出2-100的素数
 from math import sqrt
 for i in range(2, 101):
     flag = 1
@@ -31,4 +31,11 @@ for i in range(2, 101):
     if flag == 1:  # 使用flag变量保存当前数是否为素数
         print(i)
 
-
+for n in range(2, 101):
+    for x in range(2, n):
+        if n % x == 0:
+            # print(n, '等于', x, '*', n//x)
+            break
+    else:
+        # 循环中没有找到元素
+        print(n, '是质数')
