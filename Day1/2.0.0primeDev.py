@@ -31,6 +31,7 @@ for i in range(2, 101):
     if flag == 1:  # 使用flag变量保存当前数是否为素数
         print(i)
 
+
 for n in range(2, 101):
     for x in range(2, n):
         if n % x == 0:

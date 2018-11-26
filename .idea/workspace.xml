@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d54dd5-e513-41b1-a30e-a9112cb0e190" name="Default" comment="This is just my learning.">
+      <change afterPath="$PROJECT_DIR$/.idea/Python-primary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.0.0price_width.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.1.0string (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.1.0string (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.1.0string (3).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.2.0List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.2.2List_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.2.2List_deepcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.2.3date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.2.3date索引.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.3.0Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.3.0dictionary (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.3.0dictionary (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.3.1Dictionaries迭代.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.3.3dict_Phone_addr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.3.3dict_Phone_addr_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/0.4.0Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/2.0.1guess_age_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/2.0.1guess_age_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/2.0.1guess_age任性玩.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/2.0.1test推导式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/2.0.2level_menu (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/2.0.2level_menu (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/2test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/3shopping car learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/3shopping car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/4.0.0file_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/5.0.0exception_handing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/name4_ tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/00Dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/00function-learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/1.0function-learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/00function-learning2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/1.1function-learning2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/00primeDev.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/2.0.0primeDev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/0Variable practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/0.0Variable practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/0chinese_zodiac_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/0.1.0chinese_zodiac_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/0zodiac_Tuple_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/0.2.0zodiac_Tuple_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/2test-for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/2.0.0test-for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/2test-if.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/2.0.0test-if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/2test-while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/2.0.0test-while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/2test_if_for_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/2.0.0test_if_for_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/2zodiac_V3_Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/2zodiac_V3_Dictionaries.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_primary$0_2_3date.coverage" NAME="0.2.3date索引 Coverage Results" MODIFIED="1543246316955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$00function_learning2.coverage" NAME="00function-learning2 Coverage Results" MODIFIED="1542871315414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$5_0_0exception_handing.coverage" NAME="5.0.0exception_handing Coverage Results" MODIFIED="1543243251000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$00flag.coverage" NAME="00flag Coverage Results" MODIFIED="1542851904106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2test_if_for_while.coverage" NAME="2test_if_for_while Coverage Results" MODIFIED="1542872287253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$00Dictionaries.coverage" NAME="00Dictionaries迭代 Coverage Results" MODIFIED="1543213125725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2_0_1guess_age_while.coverage" NAME="2.0.1guess_age_while Coverage Results" MODIFIED="1543244062775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2test_for.coverage" NAME="2test-for Coverage Results" MODIFIED="1542863132162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2zodiac_V3_Dictionaries.coverage" NAME="2zodiac_V3_Dictionaries Coverage Results" MODIFIED="1543137792019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$00function_learning.coverage" NAME="00function-learning Coverage Results" MODIFIED="1542871374709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2test2.coverage" NAME="2test2 Coverage Results" MODIFIED="1543212582552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$flag.coverage" NAME="flag Coverage Results" MODIFIED="1542850068555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$0chinese_zodiac_String.coverage" NAME="0chinese_zodiac_String Coverage Results" MODIFIED="1542873148621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2test_if.coverage" NAME="2test-if Coverage Results" MODIFIED="1542871861198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$0_3_0dictionary__2_.coverage" NAME="0.3.0dictionary (2) Coverage Results" MODIFIED="1543246539520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2test_while.coverage" NAME="2test-while Coverage Results" MODIFIED="1542866260872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$3shopping_car_learning.coverage" NAME="3shopping car learning Coverage Results" MODIFIED="1543135184329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$3shopping_car.coverage" NAME="3shopping car Coverage Results" MODIFIED="1543135557310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$2test.coverage" NAME="2test Coverage Results" MODIFIED="1543137569502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$00.coverage" NAME="00素数 Coverage Results" MODIFIED="1542862711027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$01file_op.coverage" NAME="01file_op Coverage Results" MODIFIED="1543239787766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$00Aggregate.coverage" NAME="00Aggregate Coverage Results" MODIFIED="1543136271951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$zodiac_V2.coverage" NAME="zodiac_V2 Coverage Results" MODIFIED="1542870122663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$0Variable_practice.coverage" NAME="0Variable practice Coverage Results" MODIFIED="1542870563231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filter</find>
+      <find>index</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gunxiaoshi" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Git-test3.py" />
+        <option value="$PROJECT_DIR$/Git-test2.py" />
+        <option value="$PROJECT_DIR$/Day1/test.py" />
+        <option value="$PROJECT_DIR$/Git-test1.py" />
+        <option value="$PROJECT_DIR$/Day1/flag.py" />
+        <option value="$PROJECT_DIR$/Day1/00flag.py" />
+        <option value="$PROJECT_DIR$/Day1/00test.py" />
+        <option value="$PROJECT_DIR$/Day1/00function_learning.py" />
+        <option value="$PROJECT_DIR$/Day1/00素数.py" />
+        <option value="$PROJECT_DIR$/Day1/2test-for.py" />
+        <option value="$PROJECT_DIR$/Day1/2test-while.py" />
+        <option value="$PROJECT_DIR$/Day1/zodiac_V2.py" />
+        <option value="$PROJECT_DIR$/Day1/0Variable practice.py" />
+        <option value="$PROJECT_DIR$/Day1/00function-learning2.py" />
+        <option value="$PROJECT_DIR$/Day1/2test-if.py" />
+        <option value="$PROJECT_DIR$/Day1/2test_if_for_while.py" />
+        <option value="$PROJECT_DIR$/Day1/00function-learning.py" />
+        <option value="$PROJECT_DIR$/Day1/00primeDev.py" />
+        <option value="$PROJECT_DIR$/Day1/00Dictionaries.py" />
+        <option value="$PROJECT_DIR$/Day1/3shipping car.py" />
+        <option value="$PROJECT_DIR$/Day1/3shopping car learning.py" />
+        <option value="$PROJECT_DIR$/Day1/3shopping car.py" />
+        <option value="$PROJECT_DIR$/Day1/00Aggregate.py" />
+        <option value="$PROJECT_DIR$/Day1/2zodiac_V3_Dictionaries.py" />
+        <option value="$PROJECT_DIR$/Day1/2test.py" />
+        <option value="$PROJECT_DIR$/Day1/name.txt" />
+        <option value="$PROJECT_DIR$/Day1/2test2.py" />
+        <option value="$PROJECT_DIR$/Day1/00Dictionaries迭代.py" />
+        <option value="$PROJECT_DIR$/Day1/01file_op.py" />
+        <option value="$PROJECT_DIR$/Day1/0.11.py" />
+        <option value="$PROJECT_DIR$/Day1/5.0.0exception_handing.py" />
+        <option value="$PROJECT_DIR$/Day1/0.3.0dictionary (2).py" />
+        <option value="$PROJECT_DIR$/Day1/0.2.2List_copy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="275" />
+    <option name="y" value="7" />
+    <option name="width" value="1372" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
+              <item name="Day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="repository&#10;directory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProject/S14" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\Python-primary\Day1" />
+      <recent name="E:\Python\Python-primary" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.0.3.0dictionary (2)">
+    <configuration name="01file_op" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-primary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Python\Python-primary\Day1\4.0.0file_op.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="0.2.3date索引" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-primary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/0.2.3date索引.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="0.3.0dictionary (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-primary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/0.3.0dictionary (2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2.0.1guess_age_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-primary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/2.0.1guess_age_while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="5.0.0exception_handing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-primary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/5.0.0exception_handing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.01file_op" />
+      <item itemvalue="Python.5.0.0exception_handing" />
+      <item itemvalue="Python.2.0.1guess_age_while" />
+      <item itemvalue="Python.0.2.3date索引" />
+      <item itemvalue="Python.0.3.0dictionary (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0.3.0dictionary (2)" />
+        <item itemvalue="Python.0.2.3date索引" />
+        <item itemvalue="Python.2.0.1guess_age_while" />
+        <item itemvalue="Python.5.0.0exception_handing" />
+        <item itemvalue="Python.01file_op" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d54dd5-e513-41b1-a30e-a9112cb0e190" name="Default" comment="" />
+      <created>1542680064178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542680064178</updated>
+    </task>
+    <task id="LOCAL-00001" summary="This is just test.">
+      <created>1542692375802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542692375802</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is just test.">
+      <created>1542692615463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542692615463</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is just test.">
+      <created>1542692655892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542692655892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="This is just test.">
+      <created>1542705778836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542705778836</updated>
+    </task>
+    <task id="LOCAL-00005" summary="This is just test.">
+      <created>1542705915313</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542705915313</updated>
+    </task>
+    <task id="LOCAL-00006" summary="This is just my learning.">
+      <created>1542710722699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542710722699</updated>
+    </task>
+    <task id="LOCAL-00007" summary="This is just my learning.">
+      <created>1542711361708</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542711361708</updated>
+    </task>
+    <task id="LOCAL-00008" summary="This is just my learning.">
+      <created>1542715749937</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542715749937</updated>
+    </task>
+    <task id="LOCAL-00009" summary="This is just my learning.">
+      <created>1542716144239</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542716144239</updated>
+    </task>
+    <task id="LOCAL-00010" summary="This is just my learning.">
+      <created>1542716176977</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542716176977</updated>
+    </task>
+    <task id="LOCAL-00011" summary="This is just my learning.">
+      <created>1542716764906</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542716764906</updated>
+    </task>
+    <task id="LOCAL-00012" summary="This is just my learning.">
+      <created>1542717841317</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542717841317</updated>
+    </task>
+    <task id="LOCAL-00013" summary="This is just my learning.">
+      <created>1542853064935</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542853064935</updated>
+    </task>
+    <task id="LOCAL-00014" summary="This is just my learning.">
+      <created>1542858987591</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542858987591</updated>
+    </task>
+    <task id="LOCAL-00015" summary="This is just my learning.">
+      <created>1542897883092</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542897883092</updated>
+    </task>
+    <task id="LOCAL-00016" summary="This is just my learning.">
+      <created>1542898030441</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1542898030441</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="220" y="6" width="1097" height="870" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.23688155" side_tool="true" weight="0.38569206" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.7381132" weight="0.32970452" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49758455" weight="0.3281493" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.76311845" visible="true" weight="0.325811" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4978261" weight="0.32659408" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8142857" visible="true" weight="0.27526468" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="2" sideWeight="0.18571429" weight="0.27526468" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49530956" weight="0.33281493" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.76311845" visible="true" weight="0.38569206" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23013493" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49530956" weight="0.33333334" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4978261" weight="0.32741934" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.23688155" side_tool="true" visible="true" weight="0.38569206" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.7381132" weight="0.3310463" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49758455" weight="0.32847896" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="C:/aws" />
+    </ignored-roots>
+    <MESSAGE value="This is just test." />
+    <MESSAGE value="This is just my learning." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is just my learning." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.0test-if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.0test-while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git-test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one/0chinese_zodiac_List.py" />
+    <entry file="file://$PROJECT_DIR$/one/zodiac_V2.py" />
+    <entry file="file://$PROJECT_DIR$/Day1/3chinese_zodiacV2_if_for.py" />
+    <entry file="file://$PROJECT_DIR$/Git-test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.1.0chinese_zodiac_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.0test-if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.0test-for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.2.0zodiac_Tuple_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/3shopping car learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-622">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/3shopping car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.3.0Dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/1.0function-learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/1.1function-learning2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/738430928/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="370" column="49" lean-forward="true" selection-start-line="370" selection-start-column="13" selection-end-line="370" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Programs/Python/Python36/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="2288" lean-forward="true" selection-start-line="2288" selection-end-line="2288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.1.1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.0Variable practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/4.0.0file_op.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.4.0Set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.3.1Dictionaries迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PycharmProject/S14/Day2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PycharmProject/S14/Day2/name3_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.0primeDev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.0test_if_for_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/5.0.0exception_handing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.0test-while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.1test推导式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2zodiac_V2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.1guess_age任性玩.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.1guess_age_for.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.3.0dictionary (2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.2level_menu (1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <folding>
+            <element signature="e#143#238#0" />
+            <element signature="e#259#355#0" />
+            <element signature="e#375#415#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.0.0price_width.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.2.2List_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.2.2List_deepcopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.2.3date索引.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.2.0List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2.0.1guess_age_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/2zodiac_V3_Dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
