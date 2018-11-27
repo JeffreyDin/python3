@@ -68,8 +68,6 @@
 # print('当前文件指针的位置 %s' % f.tell())
 # f.close()
 
-
-
 # 将文件保存到列表中，然后修改内容
 # f = open(r'E:\Python\Python-primary\Day1\name.txt', 'w')
 # f.write('this \nis no \nhaiku!')

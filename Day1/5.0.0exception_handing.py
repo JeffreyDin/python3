@@ -30,7 +30,34 @@
 # except ValueError:
 #     print("年份要输入数字！")
 
-a = [1, 2, 3]
-a.append(4)
-print(a)
+# AttributeError: 'int' object has no attribute 'append'
+# a = 123
+# a.append()
+# print(a)
 
+# 同时捕获多个异常, 组合成元组
+# except (ValueError, AttributeError, KeyError)
+
+# try:
+#     print(1/0)
+# except ZeroDivisionError as e:
+#     print('0不能作除数 %s' % e)
+
+# 捕获所有的错误
+# try:
+#     print(1/'a')
+# except Exception as e:
+#     print('字母不能作除数 %s' % e)
+
+# 自定义异常,通常对文件进行操作
+# try:
+#     raise NameError('helloError')
+# except NameError:
+#     print('my custom error!')
+
+try:
+    f = open(r'E:\Python\Python-primary\Day1\name.txt')
+except Exception as e:
+    print(e)
+finally:
+    f.close()

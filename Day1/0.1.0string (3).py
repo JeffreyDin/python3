@@ -15,8 +15,8 @@ print('------')
 print("alex li".replace('l', 'L'))  # 对应字母替换
 print("alex li".replace('l', 'L', 1))  # 对应字母替换
 print('------')
-print("alex li".rfind('l'))    #  从左向右,最后一个l的下标
-print("al exli li".split('l'))    #  按照分隔符，将字符串分成列表
+print("alex li".rfind('l'))    # 从左向右,最后一个l的下标
+print("al exli li".split('l'))    # 按照分隔符，将字符串分成列表
 print('1+2+3+4'.split('+'))
 print('1+2\n+3+4'.splitlines())   # 换行
 print("Alex Li".swapcase())       # 大小写变换
