@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2/readme" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekbangpython-master.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,8 +139,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="175" />
-    <option name="y" value="116" />
+    <option name="x" value="487" />
+    <option name="y" value="136" />
     <option name="width" value="1365" />
     <option name="height" value="885" />
   </component>
@@ -183,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Flask" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -365,7 +360,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\丁建枫\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -375,12 +370,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542680064178</updated>
     </task>
-    <task id="LOCAL-00001" summary="This is just test.">
-      <created>1542692375802</created>
+    <task id="LOCAL-00001" summary="This is just my learning.">
+      <created>1543384163408</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1542692375802</updated>
+      <updated>1543384163408</updated>
     </task>
     <task id="LOCAL-00002" summary="This is just test.">
       <created>1542692615463</created>
@@ -508,19 +503,20 @@
       <option name="project" value="LOCAL" />
       <updated>1543278899140</updated>
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="390" y="109" width="1092" height="708" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49805748" weight="0.32879046" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50469166" side_tool="true" visible="true" weight="0.29985228" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3326886" side_tool="true" visible="true" weight="0.37111518" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.73426574" weight="0.32879046" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4933955" weight="0.3270869" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7553192" weight="0.33089578" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4953083" visible="true" weight="0.29985228" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8142857" visible="true" weight="0.22520107" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.66731143" visible="true" weight="0.37111518" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8142857" visible="true" weight="0.32495165" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
