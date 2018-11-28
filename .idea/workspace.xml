@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d54dd5-e513-41b1-a30e-a9112cb0e190" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.0function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.0func函数变量作用域.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.0sanguo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.0sanguo_nameV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.0sanguo_weaponV3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.1func迭代器和生成器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.2lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2/0.0.3func内建.py" afterDir="false" />
+    <list default="true" id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/0.0.0func可变长参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/sanguo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/sanguo_utf8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/weapon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekbangpython-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-primary.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +26,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_primary$0_2_3date.coverage" NAME="0.2.3date索引 Coverage Results" MODIFIED="1543246316955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$00function_learning2.coverage" NAME="00function-learning2 Coverage Results" MODIFIED="1542871315414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
-    <SUITE FILE_PATH="coverage/Python_primary$5_0_0exception_handing.coverage" NAME="5.0.0exception_handing Coverage Results" MODIFIED="1543249501951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
+    <SUITE FILE_PATH="coverage/Python_primary$5_0_0exception_handing.coverage" NAME="5.0.0exception_handing Coverage Results" MODIFIED="1543374376601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$00flag.coverage" NAME="00flag Coverage Results" MODIFIED="1542851904106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_0sanguoV2.coverage" NAME="0.0.0sanguoV2 Coverage Results" MODIFIED="1543282537997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/Python_primary$2test_if_for_while.coverage" NAME="2test_if_for_while Coverage Results" MODIFIED="1542872287253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
@@ -45,6 +49,7 @@
     <SUITE FILE_PATH="coverage/Python_primary$3shopping_car_learning.coverage" NAME="3shopping car learning Coverage Results" MODIFIED="1543135184329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$2test.coverage" NAME="2test Coverage Results" MODIFIED="1543137569502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_1func.coverage" NAME="0.0.1func迭代器和生成器 Coverage Results" MODIFIED="1543322736223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
+    <SUITE FILE_PATH="coverage/Python_primary$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1543374379459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Python_primary$00.coverage" NAME="00素数 Coverage Results" MODIFIED="1542862711027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_0func.coverage" NAME="0.0.0func函数变量作用域 Coverage Results" MODIFIED="1543309302995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_3func.coverage" NAME="0.0.3func内建 Coverage Results" MODIFIED="1543320850277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
@@ -56,29 +61,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5.0.0exception_handing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day1/5.0.0exception_handing.py">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Flask/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+            <state relative-caret-position="228">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0.0.0function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day2/0.0.0function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="0.0.1func迭代器和生成器.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day2/0.0.1func迭代器和生成器.py">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Flask/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,7 +87,7 @@
       <file leaf-file-name="0.0.2lambda.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day2/0.0.2lambda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
+            <state relative-caret-position="278">
               <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
@@ -95,7 +96,7 @@
       <file leaf-file-name="0.0.3func内建.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day2/0.0.3func内建.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
+            <state relative-caret-position="278">
               <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
             </state>
           </provider>
@@ -116,81 +117,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Flask Main" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>filter</find>
-      <find>index</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="gunxiaoshi" />
-      </list>
-    </option>
-    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Git-test3.py" />
-        <option value="$PROJECT_DIR$/Git-test2.py" />
-        <option value="$PROJECT_DIR$/Day1/test.py" />
-        <option value="$PROJECT_DIR$/Git-test1.py" />
-        <option value="$PROJECT_DIR$/Day1/flag.py" />
-        <option value="$PROJECT_DIR$/Day1/00flag.py" />
-        <option value="$PROJECT_DIR$/Day1/00test.py" />
-        <option value="$PROJECT_DIR$/Day1/00function_learning.py" />
-        <option value="$PROJECT_DIR$/Day1/00素数.py" />
-        <option value="$PROJECT_DIR$/Day1/2test-for.py" />
-        <option value="$PROJECT_DIR$/Day1/2test-while.py" />
-        <option value="$PROJECT_DIR$/Day1/zodiac_V2.py" />
-        <option value="$PROJECT_DIR$/Day1/0Variable practice.py" />
-        <option value="$PROJECT_DIR$/Day1/00function-learning2.py" />
-        <option value="$PROJECT_DIR$/Day1/2test-if.py" />
-        <option value="$PROJECT_DIR$/Day1/2test_if_for_while.py" />
-        <option value="$PROJECT_DIR$/Day1/00function-learning.py" />
-        <option value="$PROJECT_DIR$/Day1/00primeDev.py" />
-        <option value="$PROJECT_DIR$/Day1/00Dictionaries.py" />
-        <option value="$PROJECT_DIR$/Day1/3shipping car.py" />
-        <option value="$PROJECT_DIR$/Day1/3shopping car learning.py" />
-        <option value="$PROJECT_DIR$/Day1/3shopping car.py" />
-        <option value="$PROJECT_DIR$/Day1/00Aggregate.py" />
-        <option value="$PROJECT_DIR$/Day1/2zodiac_V3_Dictionaries.py" />
-        <option value="$PROJECT_DIR$/Day1/2test.py" />
-        <option value="$PROJECT_DIR$/Day1/name.txt" />
-        <option value="$PROJECT_DIR$/Day1/2test2.py" />
-        <option value="$PROJECT_DIR$/Day1/00Dictionaries迭代.py" />
-        <option value="$PROJECT_DIR$/Day1/01file_op.py" />
-        <option value="$PROJECT_DIR$/Day1/0.11.py" />
-        <option value="$PROJECT_DIR$/Day1/0.3.0dictionary (2).py" />
-        <option value="$PROJECT_DIR$/Day1/0.2.2List_copy.py" />
-        <option value="$PROJECT_DIR$/Day1/0.1.0string (3).py" />
-        <option value="$PROJECT_DIR$/Day1/name4_ tuple.py" />
-        <option value="$PROJECT_DIR$/Day1/4.0.0file_op.py" />
-        <option value="$PROJECT_DIR$/Day1/5.0.0exception_handing.py" />
-        <option value="$PROJECT_DIR$/Day2/sanguo.py" />
-        <option value="$PROJECT_DIR$/Day2/name.txt" />
-        <option value="$PROJECT_DIR$/Day2/0.0.0sanguoV2.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.0sanguo_nameV2.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.0sanguo_weaponV3.py" />
-        <option value="$PROJECT_DIR$/Day2/readme" />
-        <option value="$PROJECT_DIR$/Day2/0.0.0func_test.py" />
-        <option value="$PROJECT_DIR$/Day2/test.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.0func.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.0func可变长参数.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.0func函数变量作用域.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.2lambda.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.3func内建.py" />
-        <option value="$PROJECT_DIR$/Day2/0.0.1func迭代器和生成器.py" />
-        <option value="$PROJECT_DIR$/Flask/1Hello,World!" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -199,8 +131,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="421" />
-    <option name="y" value="97" />
+    <option name="x" value="175" />
+    <option name="y" value="117" />
     <option name="width" value="1365" />
     <option name="height" value="885" />
   </component>
@@ -210,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,24 +150,23 @@
               <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flask" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="repository&#10;directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Flask" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Python\Python-primary\Day1" />
       <recent name="E:\Python\Python-primary" />
     </key>
   </component>
@@ -250,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0.0.1func迭代器和生成器">
+  <component name="RunManager" selected="Flask server.Flask">
     <configuration name="0.0.0func" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-primary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,25 +216,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2/0.0.0func函数变量作用域.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="0.0.0sanguo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-primary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day2/0.0.0sanguo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,20 +278,69 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="5.0.0exception_handing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-primary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/5.0.0exception_handing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Flask" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="Flask" />
+      <option name="target" value="$PROJECT_DIR$/../Flask/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <option name="additionalOptions" value="" />
+      <option name="application" value="" />
+      <module name="Flask" />
+      <option name="target" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.0.0.0sanguo" />
+      <item itemvalue="Flask server.Flask" />
       <item itemvalue="Python.0.0.0sanguo_weaponV3" />
       <item itemvalue="Python.0.0.0func" />
       <item itemvalue="Python.0.0.1func迭代器和生成器" />
       <item itemvalue="Python.0.0.3func内建" />
+      <item itemvalue="Python.5.0.0exception_handing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5.0.0exception_handing" />
         <item itemvalue="Python.0.0.1func迭代器和生成器" />
         <item itemvalue="Python.0.0.3func内建" />
         <item itemvalue="Python.0.0.0func" />
         <item itemvalue="Python.0.0.0sanguo_weaponV3" />
-        <item itemvalue="Python.0.0.0sanguo" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +349,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64d54dd5-e513-41b1-a30e-a9112cb0e190" name="Default" comment="" />
+      <changelist id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="" />
       <created>1542680064178</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -526,35 +488,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543278899140</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="337" y="78" width="1092" height="708" extended-state="0" />
+    <frame x="140" y="94" width="1092" height="708" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49805748" weight="0.32879046" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.24321705" side_tool="true" visible="true" weight="0.33089578" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.24468085" side_tool="true" visible="true" weight="0.32906765" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75678295" weight="0.33089578" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.73426574" weight="0.32879046" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4933955" weight="0.3270869" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7553192" weight="0.33089578" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49663785" weight="0.3253833" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8142857" visible="true" weight="0.3065764" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8142857" visible="true" weight="0.3181818" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="2" sideWeight="0.18571429" side_tool="true" weight="0.27526468" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49417248" weight="0.3321976" />
       <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49417248" weight="0.3321976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -590,42 +542,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -638,36 +554,7 @@
     <MESSAGE value="This is just my learning." />
     <option name="LAST_COMMIT_MESSAGE" value="This is just my learning." />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="29" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Flask/1Hello,World!">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1/3shopping car learning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-622">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1/3shopping car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day1/0.3.0Dictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -931,10 +818,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day1/0.3.0dictionary (2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/1Hello,World!" />
+    <entry file="file://$PROJECT_DIR$/Day2/0.0.1func迭代器和生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day1/5.0.0exception_handing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        <state relative-caret-position="810">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2/0.0.3func内建.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2/0.0.2lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -945,40 +868,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2/0.0.2lambda.py">
+    <entry file="file://$PROJECT_DIR$/../Flask/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="228">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day1/0.3.0dictionary (2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2/0.0.3func内建.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flask/1Hello,World!">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2/0.0.1func迭代器和生成器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
