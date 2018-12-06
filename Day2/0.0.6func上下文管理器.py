@@ -5,3 +5,17 @@
 # @Site    : 
 # @File    : 0.0.6func上下文管理器.py
 # @Software: PyCharm
+
+
+# fd = open('neme.txt')
+# try:
+#     for line in fd:
+#         print(line)
+# finally:
+#     fd.close()
+
+# 上下文管理器
+with open('name,txt') as gxs:
+    for line in gxs:
+        print(line)
+
