@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/12/5 17:41
 # @Author  : Jianfeng Ding
-# @Site    : 
+# @Site    :
 # @File    : 0.0.5装饰器.py
 # @Software: PyCharm
 
@@ -49,4 +49,3 @@ i_can_sleep()
 # num = timer(i_can_sleep)
 # num()
 # num**的方式不简单优雅，逐渐演化成i_can***
-

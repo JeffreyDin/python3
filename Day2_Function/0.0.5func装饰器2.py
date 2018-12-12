@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/12/6 9:37
 # @Author  : Jianfeng Ding
-# @Site    : 
+# @Site    :
 # @File    : 0.0.5装饰器2.py
 # @Software: PyCharm
 
@@ -32,17 +32,13 @@ def tips(func):
 
 @tips
 def add(a, b):
-    print(a+b)
+    print(a + b)
 
 
 @tips
 def multiply(a, b):
-    print(a*b)
+    print(a * b)
 
 
 print(add(4, 5))
 print(multiply(4, 5))
-
-
-
-

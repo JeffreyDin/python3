@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/12/6 14:29
 # @Author  : Jianfeng Ding
-# @Site    : 
+# @Site    :
 # @File    : 0.0.5装饰器4带函数.py
 # @Software: PyCharm
 
@@ -28,7 +28,7 @@ def y_func():
 
 @new_tips(x_func, y_func)
 def add(a, b):
-    print(a+b)
+    print(a + b)
 
 
 print(add(8, 5))

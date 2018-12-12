@@ -15,7 +15,7 @@
 #     fd.close()
 
 # 上下文管理器
-with open('name,txt') as gxs:
+with open(r'E:\Python\Python-primary\Day2\name.txt') as gxs:
     for line in gxs:
         print(line)
 
