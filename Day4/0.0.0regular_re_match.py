@@ -24,15 +24,20 @@
 # . 匹配任意的单个字符
 # ^ $
 # * 匹配前面的字符出现0次或多次
-# + ? {m} {m, n} [] | \d \D \s ()
+# + ? {m}
+# {m, n}　　出现m~n次
+#  [] | \d \D \s ()
 # ^$   空行
 # .*?  非贪婪模式
+# abccccccccd
+# # abc*  ->  abcccccccc
+# # abc*?  ->  ab
 #
-# import re
-# # compile 匹配的字符串
-# #　match　要匹配的字符串
-# p = re.compile('ca*t')
-# print(p.match('ct'))
+import re
+# compile 匹配的字符串
+# match　要匹配的字符串
+p = re.compile('cat*?')
+print(p.match('catttttttttd'))
 
 # c[abcd]t
 # cat
@@ -46,14 +51,14 @@
 
 import re
 
-p = re.compile('.{3}')
-print(p.match('lennnnn'))
+# p = re.compile('.{3}')
+# print(p.match('lennnnn'))
 
-# p = re.compile('....-..-..')
-p = re.compile('(\d+)-(\d+)-(\d+)')
-print(p.match('2018-05-10'))
-print(p.match('2018-05-10').group(2))
-print(p.match('2018-05-10').groups())
-# 取出,并赋值
-year, month, day = p.match('2018-05-10').groups()
-print(year)
+# # p = re.compile('....-..-..')
+# p = re.compile('(\d+)-(\d+)-(\d+)')
+# print(p.match('2018-05-10'))
+# print(p.match('2018-05-10').group(2))
+# print(p.match('2018-05-10').groups())
+# # 取出,并赋值
+# year, month, day = p.match('2018-05-10').groups()
+# print(year)
