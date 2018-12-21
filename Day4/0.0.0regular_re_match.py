@@ -6,15 +6,33 @@
 # @File    : 0.0.0regular.py
 # @Software: PyCharm
 
+# 日常应用比较广泛的模块是：
+# 1. 文字处理的 re
+# 2. 日期类型的time、datetime
+# 3. 数字和数学类型的math、random
+# 4. 文件和目录访问的pathlib、os.path
+# 5. 数据压缩和归档的tarfile
+# 6. 通用操作系统的os、logging、argparse
+# 7. 多线程的 threading、queue
+# 8. Internet数据处理的 base64 、json、urllib
+# 9. 结构化标记处理工具的 html、xml
+# 10. 开发工具的unitest
+# 11. 调试工具的 timeit
+# 12. 软件包发布的venv
+# 13. 运行服务的__main__
 
-# . ^ $ * + ? {m} {m, n} [] | \d \D \s ()
+# . 匹配任意的单个字符
+# ^ $
+# * 匹配前面的字符出现0次或多次
+# + ? {m} {m, n} [] | \d \D \s ()
 # ^$   空行
 # .*?  非贪婪模式
-
-# import re
 #
+# import re
+# # compile 匹配的字符串
+# #　match　要匹配的字符串
 # p = re.compile('ca*t')
-# print(p.match('caaaaaaaaaaaat'))
+# print(p.match('ct'))
 
 # c[abcd]t
 # cat
