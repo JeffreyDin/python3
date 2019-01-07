@@ -13,13 +13,15 @@
 from urllib import request
 
 url = "http://www.baidu.com"
-# 设置超时时间
+# request.urlopen解析内容，类似浏览器打开网页，设置超时时间
 response = request.urlopen(url, timeout=1)
+# read 读取内容
 print(response.read().decode('utf-8'))
 
-# gbk 一个汉字两个位置
-# utf-8 一个汉字三个位置
+# gbk 一个英文一个位置。一个汉字两个位置(仅包含常用字)
+# utf-8 一个汉字三个位置(包含生僻字)
 
+# 学习内容：
 # 请求网页的方式get和post
 # 测试http地址：http://httpbin.org/
 # http://httpbin.org/get?a=123&b=456

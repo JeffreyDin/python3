@@ -6,7 +6,8 @@
 # @File    : 0.0.2pachong_http_headers.py
 # @Software: PyCharm
 
-
+# request用来发起请求
+# parse用来处理post数据
 from urllib import request, parse
 
 url = 'http://httpbin.org/post'
@@ -26,7 +27,12 @@ dict = {
     'name': 'value'
 }
 
+# post请求，urllab需要封装数据，使用parse.urlencode对数据进行封装，用request.urlopen打开网页，使用data指定数据
 data = bytes(parse.urlencode(dict), encoding='utf8')
+# 重新定义Request
 req = request.Request(url=url, data=data, headers=headers, method='POST')
 response = request.urlopen(req)
 print(response.read().decode('utf-8'))
+
+
+
