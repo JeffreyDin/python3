@@ -20,8 +20,8 @@ print(p.search('sss2018-05-10'))
 # print(p.search('aa2018-09-21bb'))
 
 # match与search
-#  search()的工作方式与 match()完全一致，不
-# 同之处在于 search()会用它的字符串参数，在“任意位置”对给定正则表达式模式搜索第一次出现
+# search()的工作方式与 match()完全一致，不同之处在于
+# search()会用它的字符串参数，在“任意位置”对给定正则表达式模式搜索第一次出现
 # 的匹配情况。如果搜索到成功的匹配，就会返回一个匹配对象； 否则， 返回 None。
 print("----------")
 # m = re.match('foot', 'bartfoot')  # 匹配失败
