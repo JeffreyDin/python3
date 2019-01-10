@@ -5,6 +5,7 @@ Desktop.ini
 venv/
 .git
 .github
+.vscode
 .idea/
 apps/__pycache__/
 apps/static/ionicons/
