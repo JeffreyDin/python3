@@ -58,12 +58,16 @@ class Boss(Monster):
 a1 = Monster(100)  # 关于覆盖的说明，初始化的说明，在定义方法的时候，可以直接赋值如hp = 200,后续可直接覆盖
 print(a1.hp)
 print(a1.run())
+print(a1.whoami())
+print('----------------')
 a2 = Animals(1)  # 子类继承父类的run，面向对象的一个特性——继承。
 print(a2.hp)
 print(a2.run())
-a3 = Boss(800)  # 面向对象的另一个特性——多态。
+print('----------------')
+a3 = Boss()  # 面向对象的另一个特性——多态。
+print(a3.hp)
 a3.whoami()
-
+print('----------------')
 # 判断子类父类的方法：
 # 判断
 print('a1的类型 %s' % type(a1))
