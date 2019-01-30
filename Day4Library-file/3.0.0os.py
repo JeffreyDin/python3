@@ -47,6 +47,8 @@ print(os.path.abspath('.'))
 # # 删掉一个目录:
 # >>> os.rmdir('/Users/michael/testdir')
 #
+
+
 # #把两个路径合成一个时，不要直接拼字符串，而要通过os.path.join()函数，这样可以正确处理不同操作系统的路径分隔符。
 # # 在Linux/Unix/Mac下，os.path.join()返回这样的字符串：
 # part-1/part-2
@@ -66,6 +68,9 @@ print(os.path.abspath('.'))
 #
 # # 文件操作使用下面的函数。假定当前目录下有一个test.txt文件：
 #
+
+
+
 # # 对文件重命名:
 # >>> os.rename('test.txt', 'test.py')
 # # 删掉文件:
