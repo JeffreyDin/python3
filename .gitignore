@@ -4,7 +4,7 @@ ehthumbs.db
 Desktop.ini
 .git
 .github
-.idea
+.idea/*
 .vscode
 apps/__pycache__/
 apps/static/ionicons/
