@@ -2,11 +2,10 @@
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-venv/
 .git
 .github
+.idea
 .vscode
-.idea/
 apps/__pycache__/
 apps/static/ionicons/
 *.pyc

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Day4Library-file/3.0.1os.py" afterDir="false" />
+    <list default="true" id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="This is just my again learning。">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day4Library-file/3.0.0os.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day4Library-file/3.0.0os.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -122,29 +121,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3.0.0os.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.0os.py">
+      <file leaf-file-name="hello.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1141">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.0.1os.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.1os.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.0.0os_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.0os_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="152">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -212,8 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day3_Modular/mymod.py" />
-        <option value="$PROJECT_DIR$/Day3_Modular/0.0.0mod_test.py" />
         <option value="$PROJECT_DIR$/Day3_Modular_class/0.0.0class.py" />
         <option value="$PROJECT_DIR$/Day3_Modular_class/0.0.1classv2.py" />
         <option value="$PROJECT_DIR$/Day3_Modular_class/0.0.1class.py" />
@@ -261,8 +240,10 @@
         <option value="$PROJECT_DIR$/Day3_Modular_class/0.0.4.class__repr__和__str__.py" />
         <option value="$PROJECT_DIR$/Day3_Modular_class/0.0.5.class__repr__和__str__.py" />
         <option value="$PROJECT_DIR$/Day3_Modular_class/0.0.6.class__repr__和__str__.py" />
-        <option value="$PROJECT_DIR$/Day4Library-file/3.0.1os.py" />
         <option value="$PROJECT_DIR$/Day4Library-file/3.0.0os.py" />
+        <option value="$PROJECT_DIR$/Day4Library-file/3.0.1os.py" />
+        <option value="$PROJECT_DIR$/hello.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -273,10 +254,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="487" />
-    <option name="y" value="42" />
+    <option name="x" value="503" />
+    <option name="y" value="31" />
     <option name="width" value="1780" />
-    <option name="height" value="1023" />
+    <option name="height" value="923" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -320,11 +301,6 @@
               <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
-              <item name="Day4Library-file" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -337,7 +313,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -688,7 +664,35 @@
       <option name="project" value="LOCAL" />
       <updated>1548845024667</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="This is just my again learning。">
+      <created>1548845654680</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1548845654681</updated>
+    </task>
+    <task id="LOCAL-00029" summary="This is just my again learning。">
+      <created>1549013467676</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1549013467676</updated>
+    </task>
+    <task id="LOCAL-00030" summary="This is just my again learning。">
+      <created>1549013550852</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1549013550852</updated>
+    </task>
+    <task id="LOCAL-00031" summary="This is just my again learning。">
+      <created>1549013663609</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1549013663609</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
@@ -701,17 +705,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="390" y="34" width="1424" height="818" extended-state="0" />
+    <frame x="403" y="25" width="1424" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4970162" weight="0.32741934" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15446559" side_tool="true" visible="true" weight="0.4307458" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15446559" side_tool="true" visible="true" weight="0.33102253" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.7323103" weight="0.32580644" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4933955" weight="0.32566372" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8455344" visible="true" weight="0.4307458" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8455344" weight="0.4307458" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5444874" weight="0.35992908" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8016529" visible="true" weight="0.24377745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8016529" visible="true" weight="0.24743778" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297456" />
       <window_info anchor="right" id="SciView" order="3" weight="0.061662197" />
@@ -731,24 +735,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8142857" visible="true" weight="0.2055785" />
       <window_info id="Structure" order="2" sideWeight="0.18571429" side_tool="true" weight="0.27526468" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49805748" weight="0.32879046" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.73426574" weight="0.32879046" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.50929755" visible="true" weight="0.32920355" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996115" weight="0.32879046" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4933955" weight="0.3270869" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49417248" weight="0.3321976" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5444874" weight="0.35992908" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.49070248" side_tool="true" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.73426574" weight="0.32879046" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996115" weight="0.32879046" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4933955" weight="0.3270869" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -781,42 +785,42 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.2class类的继承.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.2class类的继承.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="47" column="28" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.3class_with.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.3class_with.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.2class类的继承.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.2class类的继承.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.3class_with.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.3class_with.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.6.class__repr__和__str__.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.6.class__repr__和__str__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/readme.md">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
@@ -830,80 +834,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.0func可变长参数.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.0func可变长参数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.0sanguo.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.0sanguo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.0sanguo_nameV2.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.0sanguo_nameV2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-342" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.0function.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.0function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.0sanguo_weaponV3.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.0sanguo_weaponV3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-456" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.1func迭代器和生成器.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.1func迭代器和生成器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-382" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.2lambda.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.2lambda.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-591" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.3func内建.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.3func内建.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-876" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.4func闭包.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.4func闭包.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-420" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.4func闭包2.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.4func闭包2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-477" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.4func闭包3.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.4func闭包3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-211" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.5func装饰器2.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.5func装饰器2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-513" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.0mod_test.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.0mod_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-259">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_Function/0.0.5func装饰器.py">
+    <entry file="file://$PROJECT_DIR$/Day2Function/0.0.5func装饰器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
@@ -973,7 +977,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.1classv2封装.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.1classv2封装.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
           <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
@@ -1029,35 +1033,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.5.class__repr__和__str__.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.5.class__repr__和__str__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.6.class__repr__和__str__.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.6.class__repr__和__str__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.4.class__repr__和__str__.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.4.class__repr__和__str__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.2class类的继承.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.2class类的继承.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-266">
           <caret line="47" column="28" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3_Modular_class/0.0.3class_with.py">
+    <entry file="file://$PROJECT_DIR$/Day3Modular_class/0.0.3class_with.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
@@ -1069,24 +1073,38 @@
         <state relative-caret-position="-1044" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.0os_test.py">
+    <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.1os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="229">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.0os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1141">
+        <state relative-caret-position="287">
           <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.1os.py">
+    <entry file="file://$PROJECT_DIR$/Day4Library-file/3.0.0os_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        <state relative-caret-position="287">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
