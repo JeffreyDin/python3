@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="This is just my again learning。">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d381e1da-b78e-492a-b65f-b408e6b3eb59" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python-primary.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +18,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_primary$1_0_0thread.coverage" NAME="1.0.0thread Coverage Results" MODIFIED="1545124314256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3_Modular_class" />
-    <SUITE FILE_PATH="coverage/Python_primary$0_0_0regular_re_search.coverage" NAME="0.0.0regular_re_search Coverage Results" MODIFIED="1546827298800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
+    <SUITE FILE_PATH="coverage/Python_primary$0_0_0regular_re_search.coverage" NAME="0.0.0regular_re_search Coverage Results" MODIFIED="1549018649964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4Library-file" />
     <SUITE FILE_PATH="coverage/Python_primary$00flag.coverage" NAME="00flag Coverage Results" MODIFIED="1542851904106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_5func3.coverage" NAME="0.0.5func装饰器3带函数 Coverage Results" MODIFIED="1547083562428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2_Function" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_4_class__repr____str__.coverage" NAME="0.0.4.class__repr__和__str__ Coverage Results" MODIFIED="1548844790252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3_Modular_class" />
@@ -40,9 +44,9 @@
     <SUITE FILE_PATH="coverage/Python_primary$0_0_5func.coverage" NAME="0.0.5func装饰器 Coverage Results" MODIFIED="1548050670022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2_Function" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_1regular_re_findall.coverage" NAME="0.0.1regular_re_findall Coverage Results" MODIFIED="1545373678574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_4func.coverage" NAME="0.0.4func闭包 Coverage Results" MODIFIED="1544000119911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
-    <SUITE FILE_PATH="coverage/Python_primary$0_0_0NumPy_test.coverage" NAME="0.0.0NumPy_test Coverage Results" MODIFIED="1545196237744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_0function.coverage" NAME="0.0.0function Coverage Results" MODIFIED="1547083950283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2_Function" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_7pachong_picture.coverage" NAME="0.0.7pachong_picture Coverage Results" MODIFIED="1547085960135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6Python-Crawler" />
+    <SUITE FILE_PATH="coverage/Python_primary$0_0_0NumPy_test.coverage" NAME="0.0.0NumPy_test Coverage Results" MODIFIED="1549018633362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5Machine-Learning" />
     <SUITE FILE_PATH="coverage/Python_primary$5_0_0exception_handing_.coverage" NAME="5.0.0exception_handing_异常 Coverage Results" MODIFIED="1544082255052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_3pachong_requests.coverage" NAME="0.0.3pachong_requests Coverage Results" MODIFIED="1545965575912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6Reptile" />
     <SUITE FILE_PATH="coverage/Python_primary$0_0_4pachong_picture.coverage" NAME="0.0.4pachong_picture Coverage Results" MODIFIED="1547082124362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6Python-Crawler" />
@@ -120,12 +124,21 @@
     <favorites_list name="Python-primary" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="hello.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="186">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -242,8 +255,8 @@
         <option value="$PROJECT_DIR$/Day3_Modular_class/0.0.6.class__repr__和__str__.py" />
         <option value="$PROJECT_DIR$/Day4Library-file/3.0.0os.py" />
         <option value="$PROJECT_DIR$/Day4Library-file/3.0.1os.py" />
-        <option value="$PROJECT_DIR$/hello.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/hello.py" />
       </list>
     </option>
   </component>
@@ -254,10 +267,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="503" />
-    <option name="y" value="31" />
+    <option name="x" value="257" />
+    <option name="y" value="48" />
     <option name="width" value="1780" />
-    <option name="height" value="923" />
+    <option name="height" value="925" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -301,6 +314,16 @@
               <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
+              <item name="Day4Library-file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-primary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-primary" type="462c0819:PsiDirectoryNode" />
+              <item name="Day5Machine-Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -313,7 +336,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -336,8 +359,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.0.1os">
-    <configuration name="0.0.2class类的继承" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.0.0.0regular_re_search">
+    <configuration name="0.0.0NumPy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-primary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,18 +368,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day3_Modular_class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5Machine-Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3_Modular_class/0.0.2class类的继承.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5Machine-Learning/0.0.0NumPy_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="0.0.4.class__repr__和__str__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="0.0.0regular_re_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-primary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,12 +387,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day3_Modular_class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day4Library-file" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3_Modular_class/0.0.4.class__repr__和__str__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day4Library-file/0.0.0regular_re_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -448,19 +471,19 @@
       <option name="launchJavascriptDebuger" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.0.0.2class类的继承" />
-      <item itemvalue="Python.0.0.4.class__repr__和__str__" />
       <item itemvalue="Python.0.0.5.class__repr__和__str__" />
       <item itemvalue="Python.0.0.6.class__repr__和__str__" />
       <item itemvalue="Python.3.0.1os" />
+      <item itemvalue="Python.0.0.0NumPy_test" />
+      <item itemvalue="Python.0.0.0regular_re_search" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0.0.0regular_re_search" />
+        <item itemvalue="Python.0.0.0NumPy_test" />
         <item itemvalue="Python.3.0.1os" />
         <item itemvalue="Python.0.0.6.class__repr__和__str__" />
         <item itemvalue="Python.0.0.5.class__repr__和__str__" />
-        <item itemvalue="Python.0.0.4.class__repr__和__str__" />
-        <item itemvalue="Python.0.0.2class类的继承" />
       </list>
     </recent_temporary>
   </component>
@@ -692,7 +715,21 @@
       <option name="project" value="LOCAL" />
       <updated>1549013663609</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="This is just my again learning。">
+      <created>1549013988386</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1549013988386</updated>
+    </task>
+    <task id="LOCAL-00033" summary="This is just my again learning。">
+      <created>1549019044617</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1549019044617</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -705,17 +742,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="403" y="25" width="1424" height="738" extended-state="0" />
+    <frame x="206" y="39" width="1424" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4970162" weight="0.32741934" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15446559" side_tool="true" visible="true" weight="0.33102253" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.15519765" side_tool="true" visible="true" weight="0.4283247" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.7323103" weight="0.32580644" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4933955" weight="0.32566372" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8455344" weight="0.4307458" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8448023" weight="0.42906573" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5444874" weight="0.35992908" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8016529" visible="true" weight="0.24743778" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8016529" visible="true" weight="0.25475842" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.3297456" />
       <window_info anchor="right" id="SciView" order="3" weight="0.061662197" />
@@ -914,24 +951,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day4Library-file/0.0.0regular_re_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day4Library-file/0.0.0regular_re_match.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5Machine-Learning/0.0.0NumPy_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1094,17 +1117,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day5Machine-Learning/0.0.0NumPy_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day4Library-file/0.0.0regular_re_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
+        <state relative-caret-position="57">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="186">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
