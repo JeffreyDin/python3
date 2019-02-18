@@ -12,15 +12,16 @@ import re
 def find_item(hero):
     with open('sanguo.txt', encoding="GB18030") as f:
         data = f.read().replace('\n', '')
+        # replace() 替换，将换行符替换为空
         name_num = re.findall(hero, data)
-        # print("主角%s出现%s次 " % (hero, len(name_num)))
+        # re.findall()函数，统计次数，hero在data中出现了几次，findall出现几次，打印几次
+        print("主角%s出现%s次 " % (hero, len(name_num)))
 
     # return name_num
     return len(name_num)
 
+
 # 读取人物信息
-
-
 name_dict = {}
 with open('name.txt', encoding='utf8') as f:
     for line in f:
@@ -31,4 +32,4 @@ with open('name.txt', encoding='utf8') as f:
             name_dict[n] = name_num
 # 字典排序
 name_sorted = sorted(name_dict.items(), key=lambda item: item[1], reverse=True)
-print(name_sorted[0:20])
+print(name_sorted[0:17])

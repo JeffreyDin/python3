@@ -8,12 +8,14 @@
 
 # 函数调用
 def func():
+
     # 函数体
     print(open('name.txt', encoding="utf8").read())
     print('test func')
 
 
 func()
+
 
 # 函数调用之自定义函数
 def func2(filename):

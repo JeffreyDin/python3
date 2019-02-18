@@ -12,11 +12,13 @@
 # 若内部赋值，成为全局变量,添加关键字
 var1 = 123
 
+
 def func():
     # var1 = 456
     global var1
     var1 = 456
     print(var1)
+
 
 func()
 print(var1)

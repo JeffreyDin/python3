@@ -6,7 +6,7 @@
 # @File    : sanguo.py
 # @Software: PyCharm
 
-# 读取人物名称
+# 读取人物名称,以什么的字符打开
 f = open('name.txt', encoding="utf8")
 data = f.read()
 print(data.split("|"))
