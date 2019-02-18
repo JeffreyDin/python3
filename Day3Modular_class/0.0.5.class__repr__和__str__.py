@@ -21,6 +21,8 @@ class Pair:
 
 p = Pair('a', 'b')
 print(p)
+print(str(p))
+print(repr(p))
 print(type(p))
 # print(dir(p))
 
