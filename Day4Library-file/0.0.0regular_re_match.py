@@ -36,8 +36,8 @@
 import re
 # compile 匹配的字符串
 # match　要匹配的字符串
-p = re.compile('cat*?')
-print(p.match('catttttttttd'))
+# p = re.compile('cat*?')
+# print(p.match('catttttttttd'))
 
 # c[abcd]t
 # cat
@@ -54,11 +54,11 @@ import re
 # p = re.compile('.{3}')
 # print(p.match('lennnnn'))
 
-# # p = re.compile('....-..-..')
-# p = re.compile('(\d+)-(\d+)-(\d+)')
-# print(p.match('2018-05-10'))
-# print(p.match('2018-05-10').group(2))
-# print(p.match('2018-05-10').groups())
+# p = re.compile('....-..-..')
+p = re.compile('(\d+)-(\d+)-(\d+)')
+print(p.match('2018-05-10'))
+print(p.match('2018-05-10').group(2))
+print(p.match('2018-05-10').groups())
 # # 取出,并赋值
 # year, month, day = p.match('2018-05-10').groups()
 # print(year)

@@ -32,9 +32,9 @@ class Monster():
 # 对职业作为参数传递到类中，对user增加属性
 user1 = Player('tom', 100, 'warrior')
 user2 = Player('jerry', 80, 'master')
-user1.print_role()
+user1.print_role()  # 通过内部定义访问数据的函数来访问已存在数据
 user2.print_role()
-
+print('-----------------')
 user1.updateName('wilson')
 user1.print_role()
 user2.__name = 'test'  # 不能通过赋值对类中修改，修改类中的某一个属性的时候只能通过方法去修改

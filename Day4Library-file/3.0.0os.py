@@ -67,11 +67,16 @@ print(os.path.abspath('.'))
 # # 这些合并、拆分路径的函数并不要求目录和文件要真实存在，它们只对字符串进行操作。
 #
 # # 文件操作使用下面的函数。假定当前目录下有一个test.txt文件：
-#
-
 
 
 # # 对文件重命名:
 # >>> os.rename('test.txt', 'test.py')
 # # 删掉文件:
 # >>> os.remove('test.py')
+
+
+import os
+
+
+dir=os.environ.get('path')
+print(dir)
