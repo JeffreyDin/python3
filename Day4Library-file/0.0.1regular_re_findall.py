@@ -14,11 +14,11 @@
 # re0subject1 = re.compile('\w+\s+')
 # print(re0subject1.findall(s))
 
-# import re
+import re
 #
-# s = "456123sad  789re3dfheasdf  a123fas  123awef  q3segd  a123dsas "
-# re0subject2 = re.compile('\w+\s+')
-# print(re0subject2.findall(s))
+s = "456123sad  789re3dfheasdf  a123fas  123awef  q3segd  a123dsas "
+re0subject2 = re.compile('\w+\s+')
+print(re0subject2.findall(s))
 
 # import re
 #
@@ -28,7 +28,7 @@
 # print(re0subject3.findall(s))
 
 
-import re
+# import re
 
 s = "456123sad  789111re3dfheasdf  a123fas  123awef  q3segd  a123dsas "
 # s = "adfad asdfasdf asdfas asdfawef asd adsfas "

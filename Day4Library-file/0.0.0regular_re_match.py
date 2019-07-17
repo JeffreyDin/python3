@@ -57,7 +57,7 @@ import re
 # p = re.compile('....-..-..')
 p = re.compile('(\d+)-(\d+)-(\d+)')
 print(p.match('2018-05-10'))
-print(p.match('2018-05-10').group(2))
+print(p.match('2018-05-10').group(1))
 print(p.match('2018-05-10').groups())
 # # 取出,并赋值
 # year, month, day = p.match('2018-05-10').groups()
