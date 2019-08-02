@@ -32,4 +32,4 @@ with open('name.txt', encoding='utf8') as f:
             name_dict[n] = name_num
 # 字典排序
 name_sorted = sorted(name_dict.items(), key=lambda item: item[1], reverse=True)
-print(name_sorted[0:17])
+print(name_sorted[0:5])

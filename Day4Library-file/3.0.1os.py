@@ -38,3 +38,7 @@ SQLALCHEMY_MIGRATE_REPO = os.path.join(basedir, 'db_repository')
 
 print(SQLALCHEMY_DATABASE_URI)
 print(SQLALCHEMY_MIGRATE_REPO)
+
+
+
+

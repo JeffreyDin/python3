@@ -28,8 +28,10 @@ def sum1(a):
 # 调用的区别
 # 使用闭包函数的
 func2 = func1()
-sum2 = sum1(1)
-
 print(type(func2))
+print(func2)
+
+
+sum2 = sum1(7)
 print(type(sum2))
-print(sum2(1))
+print(sum2(4))
