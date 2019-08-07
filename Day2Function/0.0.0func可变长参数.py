@@ -12,29 +12,29 @@
 # print('abc', end='\n\n')
 # print('abc')
 
-# def func(a, b, c):
-#     print('a= %s' % a)
-#     print('b= %s' % b)
-#     print('b= %s' % c)
-#
-#
-# # func(1, 2, 3)
-#
-# # 使用关键字参数可以忽略顺序
-# func(1, c=3, b=2)
+def func(a, b, c):
+    print('a= %s' % a)
+    print('b= %s' % b)
+    print('b= %s' % c)
 
 
-# 函数的可变长参数，后面的参数是可选的
-def howlong(first, *other):
-    # return len(first) + len(other)
-    # return 1 + len(other)
-    print(1 + len(other))
+# func(1, 2, 3)
 
-# 至少传递一个参数
+# 使用关键字参数可以忽略顺序
+func(1, c=3, b=2)
+
+
+# # 函数的可变长参数，后面的参数是可选的
+# def howlong(first, *other):
+#     # return len(first) + len(other)
+#     # return 1 + len(other)
+#     print(1 + len(other))
+#
+# # 至少传递一个参数
 # howlong(123, 234, 345)
 
 # TypeError: howlong() missing 1 required positional argument: 'first'
 # howlong()
 
 
-howlong(123)
+# howlong(123)

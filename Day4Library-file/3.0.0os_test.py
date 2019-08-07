@@ -19,8 +19,8 @@ print(os.path.exists('F:\System_ISO'))
 print(os.path.isfile('users'))
 print(os.path.isfile('2.0.0math.py'))
 print(os.path.isdir('F:\System_ISO'))
-print(os.path.join('E:/Blog' '/moban'))
 # 文件拼接
+print(os.path.join('E:/Blog' '/moban'))
 print("--------------")
 
 # pathlib — Object-oriented filesystem paths
