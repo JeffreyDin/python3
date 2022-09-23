@@ -32,7 +32,7 @@ mccabe==0.6.1
 numpy==1.15.4
 pandas==0.23.4
 pipenv==2018.11.26
-protobuf==3.6.1
+protobuf==3.18.3
 pyasn1==0.4.4
 pycodestyle==2.4.0
 pyparsing==2.3.0
